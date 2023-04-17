@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/gridLayout"
+        android:enabled="true"
+        android:title="Grid"
+        android:visible="true"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/listLayout"
+        android:enabled="true"
+        android:title="List"
+        android:visible="true"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">UTS Praktikum</string>
+    <string name="nama">Nama</string>
+    <string name="nim">Nim</string>
+    <string name="umur">Umur</string>
+    <string-array name="listNama">
+        <item>Zainal Abidin</item>
+        <item>Andi</item>
+        <item>Anton</item>
+        <item>Bandi</item>
+        <item>Kiki</item>
+        <item>Rizky</item>
+        <item>Wawan</item>
+        <item>Iwan</item>
+        <item>Ubay</item>
+        <item>Randy</item>
+        <item>Anam</item>
+        <item>Umam</item>
+        <item>Iqbal</item>
+        <item>Adam</item>
+        <item>Idris</item>
+        <item>Rey</item>
+        <item>Nanda</item>
+        <item>Ikhwan</item>
+        <item>Imam</item>
+        <item>Randa</item>
+
+    </string-array>
+    <string-array name="lisNim">
+        <item>20033110009</item>
+        <item>20033110010</item>
+        <item>20033110011</item>
+        <item>20033110012</item>
+        <item>20033110013</item>
+        <item>20033110014</item>
+        <item>20033110015</item>
+        <item>20033110016</item>
+        <item>20033110017</item>
+        <item>20033110018</item>
+        <item>20033110019</item>
+        <item>20033110020</item>
+        <item>20033110021</item>
+        <item>20033110022</item>
+        <item>20033110023</item>
+        <item>20033110024</item>
+        <item>20033110025</item>
+        <item>20033110026</item>
+        <item>20033110027</item>
+        <item>20033110028</item>
+    </string-array>
+    <string-array name="listUmur">
+        <item>20 Tahun</item>
+        <item>18 Tahun</item>
+        <item>22 Tahun</item>
+        <item>20 Tahun</item>
+        <item>23 Tahun</item>
+        <item>19 Tahun</item>
+        <item>20 Tahun</item>
+        <item>21 Tahun</item>
+        <item>19 Tahun</item>
+        <item>22 Tahun</item>
+        <item>23 Tahun</item>
+        <item>19 Tahun</item>
+        <item>20 Tahun</item>
+        <item>21 Tahun</item>
+        <item>19 Tahun</item>
+        <item>18 Tahun</item>
+        <item>22 Tahun</item>
+        <item>20 Tahun</item>
+        <item>23 Tahun</item>
+        <item>19 Tahun</item>
+    </string-array>
+    <integer-array name="listFoto">
+        <item>@drawable/person1</item>
+        <item>@drawable/person2</item>
+        <item>@drawable/person3</item>
+        <item>@drawable/person4</item>
+        <item>@drawable/person5</item>
+        <item>@drawable/person6</item>
+        <item>@drawable/person7</item>
+        <item>@drawable/person8</item>
+        <item>@drawable/person9</item>
+        <item>@drawable/person10</item>
+        <item>@drawable/person11</item>
+        <item>@drawable/person12</item>
+        <item>@drawable/person13</item>
+        <item>@drawable/person14</item>
+        <item>@drawable/person15</item>
+        <item>@drawable/person16</item>
+        <item>@drawable/person17</item>
+        <item>@drawable/person18</item>
+        <item>@drawable/person19</item>
+        <item>@drawable/person20</item>
+
+    </integer-array>
+</resources>
